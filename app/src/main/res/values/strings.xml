@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Listagem</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_Listagem">Biblioteca</string>
+    <string name="txt_msg">Olá! Seja Bem-Vindo(a) a sua biblioteca particular!</string>
+    <string name="title_activity_pagina_inicial">PaginaInicial</string>
+    <string name="pg_inicial">Página Inicial</string>
+    <string name="td_livros">Todos os Livros</string>
+    <string name="fv_livros">Favoritados</string>
+    <string name="frase_inicial">Qual novidade Você trás hoje?</string>
+    <string name="title_activity_pagina1">Pagina1</string>
+    <string name="title_activity_pagina2">Pagina2</string>
+    <string name="nome">Acrescente aí seus interesses literários:</string>
+    <string name="btnOk">Ok</string>
+</resources>

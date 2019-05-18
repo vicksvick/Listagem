@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nvInicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/pg_inicial" />
+
+    <item
+        android:id="@+id/nvGeral"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/td_livros" />
+
+    <item
+        android:id="@+id/nvFavo"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/fv_livros" />
+
+</menu>
